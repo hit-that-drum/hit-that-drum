@@ -63,3 +63,10 @@ Here are some ideas to get you started:
 ## BLOG
 
 - For study, TIL, personal archive [hit-that-drum.log](https://velog.io/@hit-that-drum/posts)
+
+<br>
+
+## STATS
+
+![hit-that-drum](https://github-readme-stats.vercel.app/api?username=hit-that-drum&include_all_commits=true&show_icons=true&theme=radical&count_private=true)
+
